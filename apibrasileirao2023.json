@@ -1,0 +1,142 @@
+[
+ {
+  "nome": "América Futebol Clube",
+  "mascote": "Coelho",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Escudo_Am%C3%A9rica_de_Minas.png",
+  "estadio":"Arena Independência",
+  "estado":"Minas Gerais"
+ },
+ {
+  "nome": "Club Athletico Paranaense",
+  "mascote": "Fura-Cão",
+  "img": "https://static.athletico.com.br/wp-content/uploads/2019/08/29154056/escudo_rgb_cor_pos-protecao.png",
+  "estadio":"Arena da Baixada",
+  "estado":"Paraná"
+ },
+ {
+  "nome": "Clube Atlético Mineiro",
+  "mascote": "Galo",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Clube_Atl%C3%A9tico_Mineiro_logo.svg/634px-Clube_Atl%C3%A9tico_Mineiro_logo.svg.png",
+  "estadio":"Arena MRV",
+  "estado":"Minas Gerais"
+ },
+ {
+  "nome": "Esporte Clube Bahia",
+  "mascote": "Super-Homem",
+  "img": "https://upload.wikimedia.org/wikipedia/pt/9/90/ECBahia.png",
+  "estadio":"Arena Fonte Nova",
+  "estado":"Bahia"
+ },
+ {
+  "nome": "Botafogo de Futebol e Regatas",
+  "mascote": "Manequinho",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg/681px-Botafogo_de_Futebol_e_Regatas_logo.svg.png",
+  "estadio":"Estádio Olímpico Nilton Santos",
+  "estado":"Rio de Janeiro"
+ },
+ {
+  "nome": "Sport Club Corinthians Paulista",
+  "mascote": "Mosqueteiro",
+  "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/874.png",
+  "estadio":"Neo Química Arena",
+  "estado":"São Paulo"
+ },
+ {
+  "nome": "Coritiba Foot Ball Club",
+  "mascote": "Vovô Coxa",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Coritiba_FBC_%282011%29_-_PR.svg/800px-Coritiba_FBC_%282011%29_-_PR.svg.png",
+  "estadio":"Estádio Couto Pereira",
+  "estado":"Paraná"
+ },
+ {
+  "nome": "Cruzeiro Esporte Clube",
+  "mascote": "Raposa",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/1200px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png",
+  "estadio":"Mineirão",
+  "estado":"Minas Gerais"
+ },
+ {
+  "nome": "Cuiabá Esporte Clube",
+  "mascote": "Peixe Dourado",
+  "img": "https://upload.wikimedia.org/wikipedia/pt/2/20/Cuiab%C3%A1EC2020.png",
+  "estadio":"Arena Pantanal",
+  "estado":"Mato Grosso"
+ },
+ {
+  "nome": "Clube de Regatas do Flamengo",
+  "mascote": "Urubu",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flamengo_braz_logo.svg/1200px-Flamengo_braz_logo.svg.png",
+  "estadio":"Maracanã",
+  "estado":"Rio de Janeiro"
+ },
+ {
+  "nome": "Fluminense Football Club",
+  "mascote": "Cartola",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Fluminense_FC_escudo.png",
+  "estadio":"Maracanã",
+  "estado":"Rio de Janeiro"
+ },
+ {
+  "nome": "Fortaleza Esporte Clube",
+  "mascote": "Juba",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
+  "estadio":"Arena Castelão",
+  "estado":"Ceará"
+ },
+ {
+  "nome": "Goiás Esporte Clube",
+  "mascote": "Piriquito",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Goi%C3%A1sLogo21.png",
+  "estadio":"Estádio da Serrinha",
+  "estado":"Goiás"
+ },
+ {
+  "nome": "Grêmio Foot-Ball Porto Alegrense",
+  "mascote": "Flecha",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Gremio_logo.gif",
+  "estadio":"Arena do Grêmio",
+  "estado":"Rio Grande do Sul"
+ },
+ {
+  "nome": "Sport Club Internacional",
+  "mascote": "Saci",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Escudo_do_Sport_Club_Internacional.svg/2048px-Escudo_do_Sport_Club_Internacional.svg.png",
+  "estadio":"Estádio Beira-Rio",
+  "estado":"Rio Grande do Sul"
+ },
+ {
+  "nome": "Sociedade Esportiva Palmeiras",
+  "mascote": "Porco",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/1024px-Palmeiras_logo.svg.png",
+  "estadio":"Allianz Parque",
+  "estado":"São Paulo"
+ },
+ {
+  "nome": "Red Bull Bragantino",
+  "mascote": "Toro Loko",
+  "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6079.png",
+  "estadio":"Arena Red Bull",
+  "estado":"São Paulo"
+ },
+ {
+  "nome": "Santos Futebol Clube",
+  "mascote": "Baleinha e Baleião",
+  "img": "https://media.santosfc.com.br/wp-content/uploads/2022/04/cropped-Asset-2-1.png",
+  "estadio":"Vila Belmiro",
+  "estado":"São Paulo"
+ },
+ {
+  "nome": "São Paulo Futebol Clube",
+  "mascote": "Santo Paulo",
+  "img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2026.png",
+  "estadio":"Estádio do Morumbi",
+  "estado":"São Paulo"
+ },
+ {
+  "nome": "Club de Regatas Vasco da Gama",
+  "mascote": "Almirante",
+  "img": "https://upload.wikimedia.org/wikipedia/pt/a/ac/CRVascodaGama.png",
+  "estadio":"Estádio São Januário",
+  "estado":"Rio de Janeiro"
+ }
+]
