@@ -65,7 +65,7 @@
  {
   "nome": "Clube de Regatas do Flamengo",
   "mascote": "Urubu",
-  "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flamengo_braz_logo.svg/1200px-Flamengo_braz_logo.svg.png",
+  "img": "https://raw.githubusercontent.com/PaolaMarinho/apibrasileirao2023/main/Flamengo_braz_logo.svg.png",
   "estadio":"Maracanã",
   "estado":"Rio de Janeiro"
  },
